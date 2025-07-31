@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/kritanaryal/kritanaryal/blob/main/6e3641df4d4ff70e70554064ff9739a3.gif" width="300" alt="Cybersecurity GIF" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Kritan Aryal</h1>
 
 <h4 align="center">
