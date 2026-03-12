@@ -6,10 +6,10 @@
 <h1 align="center">Hi 👋, I'm Kritan Aryal</h1>
 
 <h4 align="center">
-🔐 Aspiring Cybersecurity Analyst | Focused on Defensive Security & Digital Forensics 🛡️  
+🔐 Aspiring Cybersecurity Analyst | Focused on Defensive Security , SOC & GRC 🛡️  
 <br><br>
 I'm passionate about protecting systems, investigating threats, and continuously learning in the world of cybersecurity.  
-My core interests lie in Blue Teaming, Threat Detection, and Digital Forensics, with some hands-on experience in Web Vulnerability Testing.  
+My core interests lie in Blue Teaming, Threat Detection, and Digital Forensics, with some hands-on experience in Web Vulnerability Assessment & Testing .  
 <br><br>
 I've completed the Google Cybersecurity Professional Certificate and actively explore tools in my labs and training platforms like TryHackMe and Hack The Box.
 </h4>
